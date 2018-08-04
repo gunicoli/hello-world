@@ -13,3 +13,4 @@ The following domains have been made available for the project and once the main
 
 We will use [docker] for developing, deploying, managing and scaling Cripto Grupo. 
   
+We understand that many finance students might feel tempted to join but might feel like they dont have the necessary skillset to make it work. A 
